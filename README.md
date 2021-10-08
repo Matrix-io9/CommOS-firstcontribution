@@ -1,2 +1,7 @@
 # CommOS-firstcontribution
-Your first contribution starts from here.
+
+## Members of this CommOS: Hacktoberfest'21
+
+| Name | GitHub Profile Link |
+|--|--|
+| Subin S K | https://github.com/subinsk |
