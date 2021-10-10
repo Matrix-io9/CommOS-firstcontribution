@@ -28,4 +28,4 @@ Then, copy the link of the address bar, that is your **GitHub Profile Link**.
 | Deepa S | https://github.com/deepu13 |
 | Priyanshu Vaishnavi | https://github.com/priyanshu688 |
 | Pranjal | https://github.com/pranjal698 |
-| Hammed Babatunde | https://github.com/HammedBabatunde
+| Hammed Babatunde | https://github.com/HammedBabatunde |
