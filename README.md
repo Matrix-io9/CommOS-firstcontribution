@@ -30,3 +30,4 @@ Then, copy the link of the address bar, that is your **GitHub Profile Link**.
 | Pranjal | https://github.com/pranjal698 |
 | Naman Sharma | https://github.com/Naman-sharma00100 |
 | Nishant Suthar | https://github.com/nik25s |
+| Garvit Chouhan | https://github.com/Garvit9000c |
