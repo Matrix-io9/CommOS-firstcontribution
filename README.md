@@ -31,7 +31,7 @@ Then, copy the link of the address bar, that is your **GitHub Profile Link**.
 | Naman Sharma | https://github.com/Naman-sharma00100 |
 | Nishant Suthar | https://github.com/nik25s |
 | Charchit Agarwal | https://github.com/charchit-agarwal |
-| Garvit Chouhan | https://github.com/Garvit9000c |
+| Garvit9000 | https://github.com/Garvit9000c |
 | Jash Hinger | https://github.com/jash458 |
 | Saumya | https://github.com/Saumya008 |
 | Urvashi Parashar | https://github.com/urvashiparashar |
