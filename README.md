@@ -37,3 +37,4 @@ Then, copy the link of the address bar, that is your **GitHub Profile Link**.
 | Urvashi Parashar | https://github.com/urvashiparashar |
 | Chaitanya Agarwal | https://github.com/Slammer21 |
 | Atishay | https://github.com/jnatishay78 |
+| Zainab Attari | https://github.com/Zainab-A |
